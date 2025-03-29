@@ -1,0 +1,6 @@
+vosk
+transformers
+torch
+fastapi
+uvicorn
+coqui-tts
